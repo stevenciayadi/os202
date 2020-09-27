@@ -5,3 +5,40 @@ ZCZC W00  10 L00  General Log
 ZCZC W00  20 L01 SCELE related
 ZCZC W00  20 L03 Github related
 ZCZC W00  60 L04 Github Pages related
+ZCZC W01 100 L02 Zoom related
+ZCZC W01 150 L21 VirtualBox: Setting VirtualBox
+ZCZC W01 300 L11 Assignment #1: Create tunnel, rsync, git setup
+ZCZC W01 300 L08 Trying Assigment1 SSH related in Mac, stuck (No tutorial for mac)
+ZCZC W01  60 L09 AsDos: asking SSH related for Mac
+ZCZC W01  90 L99 Asking friend to help my issues
+ZCZC W01  20 L03 Github related
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

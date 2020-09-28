@@ -7,12 +7,18 @@ ZCZC W00  20 L03 Github related
 ZCZC W00  60 L04 Github Pages related
 ZCZC W01 100 L02 Zoom related
 ZCZC W01 150 L21 VirtualBox: Setting VirtualBox
-ZCZC W01 300 L11 Assignment #1: Create tunnel, rsync, git setup
-ZCZC W01 300 L08 Trying Assigment1 SSH related in Mac, stuck (No tutorial for mac)
+ZCZC W01 200 L11 Assignment #1: Create tunnel, git setup
+ZCZC W01 300 L08 Trying Assigment1 SSH related in Mac, (got stuck,No tutorial for mac)
+ZCZC W01  30 L12 Assignment #2
+ZCZC W01  20 L13 Assignment #3
+ZCZC W01  50 L14 Assignment #4
+ZCZC W01 100 L15 Assignment #5: Rsync (got stuck)
+ZCZC W01  10 L16 Assignment #6
+ZCZC W01  80 L17 Assignment #7
+ZCZC W01 200 L18 Assignment #8: W00 and W01
 ZCZC W01  60 L09 AsDos: asking SSH related for Mac
 ZCZC W01  90 L99 Asking friend to help my issues
 ZCZC W01  20 L03 Github related
-
 
 
 

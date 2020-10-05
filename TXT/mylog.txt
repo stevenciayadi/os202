@@ -1,10 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# Week 00
 ZCZC W00  10 L00  General Log
 ZCZC W00  20 L01 SCELE related
 ZCZC W00  20 L03 Github related
 ZCZC W00  60 L04 Github Pages related
+
+# Week 01
 ZCZC W01 100 L02 Zoom related
 ZCZC W01 150 L21 VirtualBox: Setting VirtualBox
 ZCZC W01 200 L11 Assignment #1: Create tunnel, git setup
@@ -20,7 +24,22 @@ ZCZC W01  60 L09 AsDos: asking SSH related for Mac
 ZCZC W01  90 L99 Asking friend to help my issues
 ZCZC W01  20 L03 Github related
 
-
+# Week 02
+ZCZC W02 100 L02 Zoom related
+ZCZC W02  80 L10 Assignment (General) 
+ZCZC W02  50 L11 Assignment #1: Read OSC10 Chapter 16 & Chapter 17
+ZCZC W02  20 L12 Assignment #2: Generate GnuPG Key Pair
+ZCZC W02  10 L13 Assignment #3: Import Public Key 
+ZCZC W02  10 L14 Assignment #4: Export Public Key
+ZCZC W02  15 L15 Assignment #5: Review and pick 3 of my closest neighbors
+ZCZC W02  70 L16 Assignment #6: Update my TOP 10 List of Week 02
+ZCZC W02  30 L17 Assignment #7: Write a simple and useful bash script
+ZCZC W02  20 L18 Assignment #8: Update mylog.txt
+ZCZC W02  10 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W02  60 L06 Reading Refereces/Books/Documents
+ZCZC W02 150 L05 GSGS Related
+ZCZC W02  20 L09 AsDos: Asking, etc
+ZCZC W02  30 L08 Trying something
 
 
 

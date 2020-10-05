@@ -2,6 +2,7 @@
 
 [WEB](https://stevenciayadi.github.io/os202/)
 [GitHub](https://github.com/stevenciayadi/os202/)
+[Rank](https://github.com/stevenciayadi/os202/blob/master/TXT/myrank.txt)
 
 ## [My Log](TXT/mylog.txt)
 <br>

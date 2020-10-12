@@ -1,7 +1,12 @@
-# My Top 10 Neighbors Ranking List
+# Top 3 from 10 Neighbors Ranking List
 ZCZC W00 yolandawsirait
 ZCZC W00 vianra
 ZCZC W00 saridss
+
 ZCZC W01 setoaprasetyo
 ZCZC W01 saddamonpc
 ZCZC W01 siepenmaru
+
+ZCZC W02 yolandawsirait
+ZCZC W02 setoaprasetyo
+ZCZC W02 vianra

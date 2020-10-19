@@ -59,6 +59,23 @@ ZCZC W03 120 L05 GSGS Related
 ZCZC W03  30 L08 Trying something
 ZCZC W03  20 L09 AsDos: Asking, etc
 
+# Week 04
+ZCZC W04  10 L01 SCELE related
+ZCZC W04 100 L02 Zoom related
+ZCZC W04  20 L03 Github related
+ZCZC W04 150 L05 GSGS Related
+ZCZC W04  60 L11 Assignment #1: Read OSC10 Chapter and try Demos
+ZCZC W04  15 L12 Assignment #2: Update my Virtual Guest
+ZCZC W04  30 L13 Assignment #3: Review and pick 3 of my closest neighbors
+ZCZC W04 120 L14 Assignment #4: Create TOP 10 List Week 04
+ZCZC W04  20 L15 Assignment #5: Run chktoken NEWHOPE and write the result to myW04token.txt
+ZCZC W04  20 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write to myW04.txt
+ZCZC W04   7 L17 Assignment #7: Update mylog.txt
+ZCZC W04   5 L18 Assignment #8: Update bash script
+ZCZC W04   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W04  20 L08 Trying something
+ZCZC W04  30 L99 Asking friend to help my issues
+
 
 
 

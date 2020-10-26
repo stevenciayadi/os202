@@ -76,7 +76,20 @@ ZCZC W04   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as 
 ZCZC W04  20 L08 Trying something
 ZCZC W04  30 L99 Asking friend to help my issues
 
-
+# Week 05
+ZCZC W05  10 L01 SCELE related
+ZCZC W05 100 L02 Zoom related
+ZCZC W05  10 L03 Github related
+ZCZC W05  20 L05 GSGS Related
+ZCZC W05  60 L11 Assignment #1: Read: (OSC10 chapter 10)
+ZCZC W05   5 L12 Assignment #2: Update my Virtual Guest
+ZCZC W05  20 L13 Assignment #3: Review and pick 3 of my closest neighbors
+ZCZC W05 120 L14 Assignment #4: Create TOP 10 List Week 05
+ZCZC W05  20 L15 Assignment #5: Run ”chktoken 12345” and write the result into myW05token.txt.
+ZCZC W05  10 L16 Assignment #6: Download https://os.vlsm.org/WEEK/W05.tar.bz2.asc and write to myW05.txt
+ZCZC W05   7 L17 Assignment #7: Update mylog.txt
+ZCZC W05   5 L18 Assignment #8: Update bash script
+ZCZC W05   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 
 
 

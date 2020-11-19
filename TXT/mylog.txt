@@ -109,11 +109,26 @@ ZCZC W06   5 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as 
 ZCZC W06  20 L20 Assignment #10: Do "make clean" your W06/folder and "tar" it back into myW06.tar.bz2.
 ZCZC W06  10 L21 Assignment #11: GnuPG encrypt (armor) to myW06.tar.bz2.txt.
 
-
-
-
-
-
+# Week 07
+ZCZC W07  10 L01 SCELE related
+ZCZC W07 100 L02 Zoom related
+ZCZC W07  20 L03 Github related
+ZCZC W07  50 L05 GSGS Related
+ZCZC W07 150 L10 Assignment (General)
+ZCZC W07  20 L11 Assignment #1: Week07 Token: TFAWAKENS
+ZCZC W07  50 L12 Assignment #2: Read: (OSC10 chapter 06 + chapter 07 + chapter 08)
+ZCZC W07   5 L13 Assignment #3: Update your Virtual Guest
+ZCZC W07  15 L14 Assignment #4: Review and pick minimum 3 of my closest neighbors
+ZCZC W07  50 L15 Assignment #5: Create TOP 10 List Week 07
+ZCZC W07  10 L16 Assignment #6: Run ”chktoken TFAWAKENS” and write the result into myW07token.txt.
+ZCZC W07  90 L17 Assignment #7: Download https://os.vlsm.org/WEEK/W07.tar.bz2.astc.
+ZCZC W07  10 L18 Assignment #8: Update mylog.txt
+ZCZC W07   5 L19 Assignment #9: Update bash script
+ZCZC W07  10 L20 Assignment #10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W07  10 L21 Assignment #11: Do ”make clean” your W07/ folder and ”tar” it back into myW07.tar.bz2.
+ZCZC W07  20 L22 Assignment #12: GnuPG encrypt (armor) to myW07.tar.bz2.txt.
+ZCZC W07  20 L08 Trying something
+ZCZC W07  30 L99 Asking friend to help my issues
 
 
 

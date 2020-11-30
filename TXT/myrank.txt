@@ -31,3 +31,7 @@ ZCZC W06 siepenmaru
 ZCZC W06 vianra
 ZCZC W06 taufikalgi
 ZCZC W06 setoaprasetyo
+
+ZCZC W07 wienaamanda
+ZCZC W07 vianra
+ZCZC W07 setoaprasetyo
